@@ -1,6 +1,7 @@
 /* ===== CSS CUSTOM PROPERTIES ===== */
-  --px-scale: 1.7;  /* try 1.5–2.0 to taste */
 :root {
+  --px-scale: 1.7;  /* try 1.5–2.0 to taste */
+  
   --color-primary: #4CAF50;
   --color-primary-dark: #388E3C;
   --color-primary-light: #81C784;
