@@ -11,7 +11,7 @@ Minecraft temalı fiziksel aksesuar ve kıyafet satan bir e-ticaret vitrin sites
 ## Teknolojiler
 
 - **Vanilla HTML/CSS/JS** — Framework yok, derleme yok
-- **Google Fonts** — Press Start 2P (piksel yazı) + Nunito (gövde)
+- **Google Fonts** — Pixelify Sans (piksel yazı) + Nunito (gövde)
 - **CSS Custom Properties** — Tüm renkler `--color-*` değişkenleriyle tanımlı
 - **CSS @keyframes** — Tüm animasyonlar harici kütüphane olmadan
 
