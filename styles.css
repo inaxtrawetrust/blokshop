@@ -461,7 +461,7 @@ section {
 
 .hero-text .kicker {
   font-family: var(--font-pixel);
-  font-size: 0.5rem;
+  font-size: 1.2rem;
   color: var(--color-primary);
   letter-spacing: 4px;
   margin-bottom: 1.5rem;
